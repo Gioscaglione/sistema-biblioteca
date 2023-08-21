@@ -1,2 +1,4 @@
-# sistema-biblioteca
-Sistema de uma biblioteca criado em Java com CRUD e conexão à um banco de dados SQLServer
+Sistema biblioteca!
+
+Sistema para controle de estoque, onde é possível inserir, listar, atualizar e deletar itens.
+Itens criados: CD e Livro
